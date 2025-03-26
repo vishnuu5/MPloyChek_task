@@ -13,4 +13,4 @@ npm run dev
 
 ## Preview
 
-Click => [Here](https://mploychek-task-backend.onrender.com)
+Click => [Here](https://m-ploy-chek-task.vercel.app)
